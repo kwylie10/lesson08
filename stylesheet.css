@@ -19,11 +19,13 @@ a {
   grid-gap: 10px;
   padding: 10px;
   }
+
 .grid_container > div {
   text-align: center;
   padding: 20px 0;
   font-size: 15px;
     }
+    
 .item1 {
   grid-area: item1;
       }
