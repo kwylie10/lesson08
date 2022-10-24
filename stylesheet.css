@@ -1,6 +1,6 @@
 * {
   font-family: sans-serif;
-}
+  }
 * {
   box-sizing: border-box;
     }
@@ -25,7 +25,7 @@ a {
   padding: 20px 0;
   font-size: 15px;
     }
-    
+
 .item1 {
   grid-area: item1;
       }
@@ -51,16 +51,19 @@ a {
 .image {
   float: left;
 }
+.classestxt  {
+  font-size: 15px;
+  font-family: sans-serif;
+}
 
 .Name {
   font-size: 18px;
   font-weight: bold;
 }
-
 .headermenu {
     width: 100%;
     margin: auto;
-    text-align:center;
+    text-align: center;
     }
 
 .h1 {
